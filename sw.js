@@ -12,7 +12,7 @@ const assets = [
   'restaurant.html?id=8',
   'restaurant.html?id=9',
   'restaurant.html?id=10',
-  './css/styles.css',
+  './css/style.css',
   './css/responsive.css',
   './js/main.js',
   './js/dbhelper.js',
@@ -28,7 +28,7 @@ const assets = [
   './img/8.jpg',
   './img/9.jpg',
   './img/10.jpg',
-  './img/favicon.png',
+  './img/jasmine_favicon.png',
   'https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600',
   'https://fonts.googleapis.com/css?family=Montserrat:600'
 ];
