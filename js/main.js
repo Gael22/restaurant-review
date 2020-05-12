@@ -57,7 +57,7 @@ fillNeighborhoodsHTML = (neighborhoods = self.neighborhoods) => {
 };
 
 /**
- * Fetch all cuisines and set their HTML.
+ * Fetch all cuisines and set their HTML
  */
 fetchCuisines = () => {
   DBHelper.fetchCuisines((error, cuisines) => {
